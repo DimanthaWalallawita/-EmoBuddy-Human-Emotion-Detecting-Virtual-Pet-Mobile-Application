@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215593663807",
+    "project_id": "emobuddy",
+    "storage_bucket": "emobuddy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215593663807:android:1dead0b37b59cdb397e78a",
+        "android_client_info": {
+          "package_name": "com.example.pet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcqFM7JpFLLAm_TfS_3Nwphkqi-_OGZp4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
